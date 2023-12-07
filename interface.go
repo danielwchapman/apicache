@@ -1,4 +1,4 @@
-package idempotentcache
+package apicache
 
 import "context"
 
